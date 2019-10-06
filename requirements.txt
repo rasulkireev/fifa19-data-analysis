@@ -1,3 +1,4 @@
+appnope==0.1.0
 asn1crypto==0.24.0
 attrs==19.1.0
 Automat==0.7.0
@@ -36,9 +37,12 @@ jedi==0.15.1
 Jinja2==2.10.1
 jmespath==0.9.4
 joblib==0.13.2
+json5==0.8.5
 jsonschema==3.0.2
 jupyter-client==5.3.1
 jupyter-core==4.5.0
+jupyterlab==1.1.4
+jupyterlab-server==1.0.6
 kiwisolver==1.1.0
 locket==0.2.0
 lxml==4.4.1
@@ -56,12 +60,14 @@ pandocfilters==1.4.2
 parsel==1.5.2
 parso==0.5.1
 partd==1.0.0
+pexpect==4.7.0
 pickleshare==0.7.5
 Pillow==6.1.0
 plotly==4.1.0
 prometheus-client==0.7.1
 prompt-toolkit==2.0.9
 psutil==5.6.3
+ptyprocess==0.6.0
 pyasn1==0.4.6
 pyasn1-modules==0.2.6
 pycparser==2.19
